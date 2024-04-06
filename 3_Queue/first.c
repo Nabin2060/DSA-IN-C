@@ -1,3 +1,5 @@
+// this is a Queue example program
+
 #include <stdio.h>
 #include <stdlib.h>
 
